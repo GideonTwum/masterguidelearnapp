@@ -15,6 +15,10 @@ export const metadata = {
   title: "Pathfinder Basic Staff Training — Quiz",
   description:
     "Interactive review quiz with multiple choice, fill-in, and reflection questions.",
+  icons: {
+    icon: "/logo.png",
+    apple: "/logo.png",
+  },
 };
 
 export default function RootLayout({ children }) {

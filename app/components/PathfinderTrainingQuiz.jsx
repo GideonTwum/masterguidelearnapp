@@ -165,10 +165,7 @@ export default function PathfinderTrainingQuiz() {
           <p className="text-sm font-medium tracking-wide text-emerald-800 dark:text-emerald-400">
             Staff training review
           </p>
-          <h1 className="mt-2 text-2xl font-semibold leading-tight text-zinc-900 dark:text-zinc-50 sm:text-3xl">
-            {quizMeta.title}
-          </h1>
-          <p className="mt-3 text-base text-zinc-600 dark:text-zinc-400">
+          <p className="mt-2 text-base text-zinc-600 dark:text-zinc-400">
             {quizMeta.subtitle}
           </p>
         </header>
